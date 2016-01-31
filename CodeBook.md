@@ -19,7 +19,7 @@ corresponding variable for the corresponding subject and activity.
  
 TABLE. The names of the variables were changed according to this table:
 "featureIndex"		"oldName"		"newName"
-1		"tBodyAcc-mean()-X"		"timebodyaccelerationmeanx"
+(1,		"tBodyAcc-mean()-X",		"timebodyaccelerationmeanx")
 2		"tBodyAcc-mean()-Y"		"timebodyaccelerationmeany"
 3		"tBodyAcc-mean()-Z"		"timebodyaccelerationmeanz"
 4		"tBodyAcc-std()-X"		"timebodyaccelerationstdx"
